@@ -8,4 +8,3 @@ Oyun bitince çıkan pencereden tekrar oyun başlatılır ve ya kapatılır.
 ** Oyun kurulumu
 1. Projeyi klonla.
 2. Visual Studio ile aç.
-3. F5 ile çalıştır.
