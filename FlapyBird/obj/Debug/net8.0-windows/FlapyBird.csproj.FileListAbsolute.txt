@@ -1,0 +1,17 @@
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.Form1.resources
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.Properties.Resources.resources
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.csproj.GenerateResource.cache
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.AssemblyInfoInputs.cache
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.AssemblyInfo.cs
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.csproj.CoreCompileInputs.cache
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\bin\Debug\net8.0-windows\FlapyBird.exe
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\bin\Debug\net8.0-windows\FlapyBird.deps.json
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\bin\Debug\net8.0-windows\FlapyBird.runtimeconfig.json
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\bin\Debug\net8.0-windows\FlapyBird.dll
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\bin\Debug\net8.0-windows\FlapyBird.pdb
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.dll
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\refint\FlapyBird.dll
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.pdb
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\FlapyBird.genruntimeconfig.cache
+C:\Users\esman\Desktop\ntp\FlapyBird\FlapyBird\obj\Debug\net8.0-windows\ref\FlapyBird.dll
